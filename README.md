@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8464281&assignment_repo_type=AssignmentRepo)
 # js-template
 
 Paylaşmış olduğum [JSON](https://github.com/Front-End-Bootcamp/vue-bootcamp/blob/d6f881aec77f15a4107eafc10f6a91e90f9268a4/homework%201/data.json) dosyasında bulunan kişileri ve asistanları gruplamanız gerekiyor. 
