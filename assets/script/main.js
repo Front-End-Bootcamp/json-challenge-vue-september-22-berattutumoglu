@@ -11,8 +11,8 @@ import data from "../data/data.json" assert {type: "json"}; // Importing JSON Fi
         }
     function Members (group) 
         {
-            let createAssistant = Assistant(group);
-            let createStudents = Students(group);
+            var createAssistant = Assistant(group);
+            var createStudents = Students(group);
             return {"Group:":group, "Persons:":createStudents, "Assistant:":createAssistant.name}    
         }
 
